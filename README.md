@@ -107,6 +107,26 @@ stunseeker nat-type
 stunseeker discover --fastest --limit 5
 ```
 
+Smoke Test / Quick Verification
+
+```bash
+# Build & Run (Windows / Linux / macOS)
+go build -o stunseeker cmd/stunseeker/main.go
+./stunseeker      # Linux/macOS
+.\stunseeker.exe  # Windows PowerShell
+```
+
+Erwartete Ausgabe (Minimal-Stub)
+
+```
+Top 5 STUN Servers:
+    stun.l.google.com:19302 - 12 latency
+    stun1.l.google.com:19302 - 15 latency
+
+NAT Type: Full Cone NAT
+Public Endpoint: 203.0.113.45:52413
+```
+
 Example Output
 
 ```
