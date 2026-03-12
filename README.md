@@ -1,8 +1,8 @@
-derrickseeker
+# STUNseeker (LocationWACall)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Go Version](https://img.shields.io/badge/go-%3E%3D1.21-blue)](https://golang.org)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/stunseeker)
+[![License: MIT](https://img.shields.io/github/license/s2a0v2a4/LocationWACall)](https://github.com/s2a0v2a4/LocationWACall/blob/main/STUNseeker/LICENSE)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/s2a0v2a4/LocationWACall?filename=STUNseeker%2Fgo.mod)](https://github.com/s2a0v2a4/LocationWACall/blob/main/STUNseeker/go.mod)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/s2a0v2a4/LocationWACall/go.yml?branch=main)](https://github.com/s2a0v2a4/LocationWACall/actions)
 
 > A high-performance STUN server discovery and NAT traversal analysis tool
 
