@@ -35,7 +35,7 @@ What is STUN?
 
 STUN (Session Traversal Utilities for NAT) is a standardized protocol ([RFC 5389](https://tools.ietf.org/html/rfc5389)) that enables devices behind NAT (Network Address Translation) to discover their public IP address and port mapping. This is essential for peer-to-peer communication in applications like:
 
-- WebRTC video/audio calls
+- WebRTC video and or audio calls
 - VoIP (Voice over IP) systems
 - Online gaming
 - P2P file sharing
